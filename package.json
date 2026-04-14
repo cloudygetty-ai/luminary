@@ -19,5 +19,19 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "typescript": "^5"
-  }
+  },
+  "description": "Luminary \u2014 AI image generation playground with batch generation, style presets, inpainting, and A/B comparison via Vercel AI Gateway",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudygetty-ai/luminary.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ai",
+    "image-generation",
+    "next.js",
+    "vercel-ai",
+    "inpainting",
+    "stable-diffusion"
+  ]
 }
